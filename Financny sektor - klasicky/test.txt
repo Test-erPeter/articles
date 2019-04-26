@@ -1,1 +1,3 @@
-Pre�o to nechce chodi�
+Pre�o to nechce chodi�
+
+Kódovanie súboru sme zistili ako okná-1250. Keď sa dopustíte zmien, preložíme ho na UTF-8.
