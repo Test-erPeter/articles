@@ -4,17 +4,17 @@ Historicky vyvoj:
 - REAL: https://messari.io/onchainfx
 - REAL: https://coin360.com/
 
-- Analyza kryptomien
+- Analyza kryptomien:
 https://coincheckup.com/
 
 Burzy:
-- Porovnanie burz
+- Porovnanie burz:
 https://exchangewar.info/
 
-- Kryptomeny zadarmo
+- Kryptomeny zadarmo:
 https://www.coinbase.com/earn/
 
-- Najznamejsia kryptoburza
+- Najznamejsia kryptoburza:
 https://www.binance.com/en
 
 
