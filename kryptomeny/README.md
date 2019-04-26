@@ -1,7 +1,7 @@
 Historicky vyvoj:
+
 TOP: https://coinmarketcap.com/
 REAL: https://messari.io/onchainfx
-      
       https://coin360.com/
 
 - Analyza kryptomien
