@@ -14,7 +14,6 @@ https://exchangewar.info/
 - Kryptomeny zadarmo:
 https://www.coinbase.com/earn/
 
-- Najznamejsia kryptoburza:
-https://www.binance.com/en
-
-
+- Burzy: </p>
+https://www.binance.com/en <br>
+https://www.bitstamp.net/
