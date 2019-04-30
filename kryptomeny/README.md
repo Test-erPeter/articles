@@ -17,3 +17,8 @@ https://www.coinbase.com/earn/
 - Burzy: </p>
 https://www.binance.com/en <br>
 https://www.bitstamp.net/
+
+
+-Clanky:
+
+https://www.kryptonovinky.sk/ (SK)
